@@ -1,0 +1,51 @@
+ID,Fornecedor,Produto,Data_Pedido,Data_Entrega,Lead_Time_Estimado_Dias,Atraso_Dias,Custo_Total,Transporte
+1,China Tech Ltda,Peças Eletrônicas,2024-02-05,2024-02-27,22,0,11069.83,Marítimo
+2,USA Tools Corp.,Peças Eletrônicas,2024-03-16,2024-04-06,16,5,8655.54,Marítimo
+3,GlobalChem Inc.,Ferramentas,2024-03-18,2024-04-19,32,0,12374.43,Aéreo
+4,GlobalChem Inc.,Componentes Plásticos,2024-03-16,2024-04-25,40,0,27124.61,Marítimo
+5,Korea Shipping Co.,Máquinas,2024-02-05,2024-02-26,21,0,29058.69,Aéreo
+6,China Tech Ltda,Peças Eletrônicas,2024-02-18,2024-03-15,26,0,26644.88,Aéreo
+7,China Tech Ltda,Componentes Plásticos,2024-03-09,2024-04-22,44,0,16327.76,Aéreo
+8,USA Tools Corp.,Máquinas,2024-03-14,2024-04-20,37,0,9530.21,Marítimo
+9,LogiParts GmbH,Peças Eletrônicas,2024-01-30,2024-03-08,18,20,16362.78,Aéreo
+10,LogiParts GmbH,Insumos Químicos,2024-02-17,2024-03-09,21,0,22743.85,Marítimo
+11,USA Tools Corp.,Insumos Químicos,2024-03-09,2024-04-15,22,15,11594.85,Aéreo
+12,LogiParts GmbH,Ferramentas,2024-01-29,2024-03-09,25,15,26542.74,Marítimo
+13,GlobalChem Inc.,Peças Eletrônicas,2024-02-10,2024-03-09,23,5,9456.15,Aéreo
+14,GlobalChem Inc.,Componentes Plásticos,2024-02-20,2024-04-04,29,15,11143.17,Marítimo
+15,GlobalChem Inc.,Ferramentas,2024-03-09,2024-04-16,38,0,20860.89,Aéreo
+16,LogiParts GmbH,Insumos Químicos,2024-01-18,2024-02-27,30,10,10000.01,Marítimo
+17,China Tech Ltda,Insumos Químicos,2024-03-21,2024-04-30,40,0,22970.59,Marítimo
+18,Korea Shipping Co.,Componentes Plásticos,2024-03-17,2024-04-22,31,5,13531.11,Marítimo
+19,China Tech Ltda,Ferramentas,2024-02-04,2024-03-30,35,20,15483.86,Aéreo
+20,Korea Shipping Co.,Insumos Químicos,2024-02-28,2024-04-13,45,0,23886.03,Aéreo
+21,USA Tools Corp.,Insumos Químicos,2024-03-05,2024-04-16,42,0,21756.6,Marítimo
+22,GlobalChem Inc.,Máquinas,2024-01-21,2024-03-16,45,10,25129.78,Marítimo
+23,USA Tools Corp.,Máquinas,2024-03-03,2024-03-21,18,0,28440.17,Aéreo
+24,GlobalChem Inc.,Peças Eletrônicas,2024-01-31,2024-03-26,45,10,9732.66,Aéreo
+25,China Tech Ltda,Ferramentas,2024-01-17,2024-02-22,36,0,18456.21,Marítimo
+26,LogiParts GmbH,Ferramentas,2024-03-18,2024-05-07,45,5,12659.56,Marítimo
+27,LogiParts GmbH,Componentes Plásticos,2024-03-26,2024-05-06,26,15,17638.2,Aéreo
+28,China Tech Ltda,Insumos Químicos,2024-01-29,2024-02-23,25,0,8462.75,Marítimo
+29,USA Tools Corp.,Insumos Químicos,2024-01-01,2024-02-07,37,0,21884.27,Marítimo
+30,China Tech Ltda,Peças Eletrônicas,2024-02-12,2024-03-14,31,0,13236.1,Aéreo
+31,GlobalChem Inc.,Ferramentas,2024-01-17,2024-03-16,44,15,27412.43,Aéreo
+32,GlobalChem Inc.,Componentes Plásticos,2024-02-22,2024-03-11,18,0,10132.48,Aéreo
+33,LogiParts GmbH,Componentes Plásticos,2024-02-22,2024-04-09,42,5,24039.67,Marítimo
+34,China Tech Ltda,Componentes Plásticos,2024-02-13,2024-04-15,42,20,10403.92,Marítimo
+35,GlobalChem Inc.,Ferramentas,2024-02-27,2024-03-26,28,0,12036.74,Aéreo
+36,GlobalChem Inc.,Peças Eletrônicas,2024-02-26,2024-04-28,42,20,26831.27,Marítimo
+37,China Tech Ltda,Ferramentas,2024-01-02,2024-02-15,44,0,24578.44,Marítimo
+38,GlobalChem Inc.,Componentes Plásticos,2024-03-03,2024-03-29,21,5,27022.31,Marítimo
+39,GlobalChem Inc.,Componentes Plásticos,2024-01-01,2024-01-29,23,5,28383.4,Aéreo
+40,LogiParts GmbH,Componentes Plásticos,2024-03-30,2024-05-24,40,15,20226.9,Aéreo
+41,GlobalChem Inc.,Insumos Químicos,2024-02-07,2024-03-23,45,0,9286.63,Marítimo
+42,LogiParts GmbH,Peças Eletrônicas,2024-01-07,2024-02-16,30,10,19062.71,Marítimo
+43,China Tech Ltda,Ferramentas,2024-01-11,2024-02-20,20,20,9507.47,Marítimo
+44,GlobalChem Inc.,Componentes Plásticos,2024-01-16,2024-02-17,22,10,20736.22,Marítimo
+45,USA Tools Corp.,Peças Eletrônicas,2024-02-23,2024-04-11,33,15,20434.99,Aéreo
+46,LogiParts GmbH,Insumos Químicos,2024-03-26,2024-05-05,25,15,13251.09,Aéreo
+47,GlobalChem Inc.,Máquinas,2024-02-28,2024-04-12,44,0,24541.02,Marítimo
+48,China Tech Ltda,Componentes Plásticos,2024-03-20,2024-04-17,18,10,9611.74,Marítimo
+49,USA Tools Corp.,Máquinas,2024-01-17,2024-02-29,43,0,9513.41,Marítimo
+50,LogiParts GmbH,Máquinas,2024-01-21,2024-03-07,41,5,19950.8,Aéreo
